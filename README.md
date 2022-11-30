@@ -12,6 +12,8 @@
 - And also I took venue as a feature while training as I think that it ca really play a major role in predicting score.  
 - Deployed using Flask.  
 - Just run app.py and go to localhost to see the results.  
+-Thankyou,
+- Surya Prakash Yadav
 
 Do visit my blog for better explanations: https://machinelearningprojects.net/ipl-score-prediction/
 
