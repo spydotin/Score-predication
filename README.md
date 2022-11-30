@@ -7,14 +7,11 @@
  3. Ridge  
 - and out of these surprisingly Linear regression was giving more realistic results.  
 - If you liked this project star this repo.  
-- This project is inspired by a similar project made by Anuj Vyas and tutorial by Krish Naik.  
 - I made some improvisations in his code like I totally removed the result page and showed the results on the same page.  
 - And also I took venue as a feature while training as I think that it ca really play a major role in predicting score.  
 - Deployed using Flask.  
 - Just run app.py and go to localhost to see the results.  
--Thankyou,
+- Thankyou,
 - Surya Prakash Yadav
-
-Do visit my blog for better explanations: https://machinelearningprojects.net/ipl-score-prediction/
 
 ![](ipl.gif)
