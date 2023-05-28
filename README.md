@@ -15,8 +15,6 @@
 - Surya Prakash Yadav
 
 
-Sure! Here's an example README file for your code:
-
 # IPL Score Prediction Web Application
 
 This is a Flask web application that predicts the final score of an IPL (Indian Premier League) cricket match based on various input parameters. The application uses a trained regression model to make predictions.
@@ -83,4 +81,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Surya Prakash Yadav
 
-Feel free to replace `<repository-url>` with the actual URL of your repository if you have it hosted online. You can also update the sections based on your specific requirements and any additional information you want to provide.
+Feel free to replace `<repository-url>` with the actual URL of your repository if you wanna host it online. You can also update the sections based on your specific requirements and any additional information you want to provide.
